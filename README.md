@@ -1,3 +1,4 @@
+<h1 align="center">Hi There! 👋</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -8,11 +9,11 @@
 </div>
 
 <div align="center">
-  <a href=""></a>
+  <a href="[https://media.giphy.com/gifs/pudgypenguins-computer-chatgpt-chat-gpt-YbXLZ6dymH758xSEbM/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemU4ZXJlanJxbDA0dm5saG0xb3BsNnowZm1oNWpzenY3NHdybTFzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif)" width="600" height="330"></a>
 </div>
----
-## About me :
----
+
+## 👨‍💻 About me :
+Im from 🇵🇱
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>

@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About me :
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shaman-blue?style=flat&logo=Linkedin&logoColor=white)]([(https://www.linkedin.com/in/bartłomiej-gruchała-21b93626b/)])
+- :mailbox:How to reach me: [![Linkedin Badge]((https://www.linkedin.com/in/bartłomiej-gruchała-21b93626b/))
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>

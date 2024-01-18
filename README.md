@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<div id="gif" align>
+<div align="center">
   <a href="https://giphy.com/embed/usXZmmgP9Z7kf39fnq""></a>
 </div>
 

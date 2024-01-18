@@ -8,8 +8,9 @@
   </a>
 </div>
 
+##
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemU4ZXJlanJxbDA0dm5saG0xb3BsNnowZm1oNWpzenY3NHdybTFzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemU4ZXJlanJxbDA0dm5saG0xb3BsNnowZm1oNWpzenY3NHdybTFzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif" width="600" height="330">
 </div>
 
 ## 👨‍💻 About me :

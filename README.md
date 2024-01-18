@@ -8,6 +8,6 @@
 </div>
 
 <div align="center">
-  <a href="https://giphy.com/embed/usXZmmgP9Z7kf39fnq"></a>
+  <a href="[https://giphy.com/embed/usXZmmgP9Z7kf39fnq](https://giphy.com/gifs/pudgypenguins-computer-chatgpt-chat-gpt-YbXLZ6dymH758xSEbM)https://giphy.com/gifs/pudgypenguins-computer-chatgpt-chat-gpt-YbXLZ6dymH758xSEbM"></a>
 </div>
 

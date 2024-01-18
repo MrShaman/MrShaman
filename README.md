@@ -15,6 +15,7 @@
 
 ## 👨‍💻 About me :
 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/bartłomiej-gruchała-21b93626b/))
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
